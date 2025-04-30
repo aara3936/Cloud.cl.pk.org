@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact - Clear Cloud</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Clear Cloud</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="resources.html">Resources</a>
+      <a href="tools.html">Educator Tools</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Contact Us</h2>
+    <p>Email: support@clearcloud.org<br>Phone: +1 800 123 4567</p>
+  </main>
+  <footer>
+    <p>&copy; 2025 Clear Cloud</p>
+  </footer>
+</body>
+</html>
